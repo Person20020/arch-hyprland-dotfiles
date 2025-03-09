@@ -1,0 +1,39 @@
+* {
+    border: none;
+}
+#window {
+    font-size: 18px;
+    font-family: 'Roboto Mono Medium';
+    background-image: linear-gradient(45deg, rgba(40, 161, 201, 0.7), rgba(0, 156, 93, 0.7));
+    color: #333333;
+    border-radius: 10px;
+}
+#input {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-color: #dddddd;
+    color: #333333;
+}
+#entry:selected {
+    background-image: linear-gradient(90deg, rgba(40, 161, 201, 0.9), rgba(0, 156, 93, 0.9));
+    border-style: solid;
+    border-radius: 10px;
+    border-color: linear-gradient(45deg, #33ccffee, #00ff99ee);
+    border-width: 3px;
+
+}
+#entry {
+    border-bottom: 1px solid #ccc;
+    padding: 0px;
+    padding-left: 7px;
+}
+#entry:last-child {
+    border-bottom: none;
+}
+#expander-box {
+    background: transparent;
+}
+#img {
+    margin-left: 3px;
+    margin-right: 3px;
+}
