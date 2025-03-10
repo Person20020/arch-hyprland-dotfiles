@@ -6,6 +6,7 @@ These are my dot files for my arch configuration with hyprland.
 
 Tools that I included:
 - Waybar
+- Wofi
 - Hyprshot for screenshot
 - Swaylock for lock screen
 - Wlogout for a power menu
