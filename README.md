@@ -4,7 +4,7 @@ Wallpaper: [https://github.com/orangci/walls-catppuccin-mocha/blob/master/bsod.p
   
 These are my dot files for my arch configuration with hyprland.
 
-https://github.com/Person20020/arch-hyprland-dotfiles/blob/main/images/fastfetch.png
+![Screenshot of desktop with fastfetch](https://github.com/Person20020/arch-hyprland-dotfiles/blob/main/images/fastfetch.png)
 
 Tools that I included:
 - Waybar
